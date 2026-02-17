@@ -1,0 +1,7 @@
+streamlit>=1.30.0
+openai>=1.0.0
+supabase
+pdfplumber
+python-dotenv
+python-magic-bin; sys_platform == 'win32'
+python-magic; sys_platform != 'win32'
